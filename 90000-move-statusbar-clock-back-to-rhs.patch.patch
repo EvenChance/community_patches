@@ -2,15 +2,6 @@ diff --git a/frameworks/base/packages/SystemUI/res/layout/quick_status_bar_heade
 index 3c748018187..a8eb95df8e5 100644
 --- a/frameworks/base/packages/SystemUI/res/layout/quick_status_bar_header_system_icons.xml
 +++ b/frameworks/base/packages/SystemUI/res/layout/quick_status_bar_header_system_icons.xml
-@@ -30,7 +30,7 @@
-     <LinearLayout
-         android:layout_width="0dp"
-         android:layout_height="match_parent"
--        android:layout_weight="1"
-+        android:layout_weight="1"status_bar_clock_end_padding
-         android:orientation="horizontal"
-         android:gravity="center_vertical|start" >
- 
 @@ -39,9 +39,9 @@
          android:layout_width="wrap_content"
          android:layout_height="match_parent"
